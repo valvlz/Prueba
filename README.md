@@ -1,2 +1,2 @@
 # Prueba
-Prueba de edición de repositorio - estructura de datos 2026
+Edición de repositorio - estructura de datos 2026
